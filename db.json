@@ -43,6 +43,23 @@
           "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa"
         }
       ]
+    },
+    {
+      "id": "3tq34t634tpg",
+      "name": "Thailand",
+      "isoCountryCode": "Thi241",
+      "isoCountryCodeNum": "241",
+      "status": "0",
+      "parameters": "",
+      "languageCode": "EN",
+      "currencyCode": "",
+      "images": [
+        {
+          "screenType": "ISSUERICON",
+          "screenTypeCode": "200",
+          "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa"
+        }
+      ]
     }
   ]
 },
